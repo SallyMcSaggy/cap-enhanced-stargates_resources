@@ -1,0 +1,17 @@
+"UnlitGeneric" 
+{ 
+"$basetexture""vgui/entities/dhd_sg1_hd" 
+"$vertexcolor" 1 
+"$vertexalpha" 1 
+"$nolod" 1 
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "20"
+		 } 
+	} 
+}

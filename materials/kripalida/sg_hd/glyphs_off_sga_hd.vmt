@@ -1,0 +1,10 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "kripalida/sg_hd/glyphs_off_sga_hd"
+	"$bumpmap"    "Boba_Fett/shaders/normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$additive" 1
+}
+
+

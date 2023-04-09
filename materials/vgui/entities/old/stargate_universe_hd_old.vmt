@@ -1,0 +1,7 @@
+"UnlitGeneric" 
+{ 
+"$basetexture""vgui/entities/old/stargate_universe_hd_old" 
+"$vertexcolor" 1 
+"$vertexalpha" 1 
+"$nolod" 1 
+}
