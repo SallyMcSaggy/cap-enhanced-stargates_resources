@@ -1,2 +1,2 @@
-# CAP Enhanced StarGates Resources
+# CAP ES: Resources
  
